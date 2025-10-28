@@ -7,5 +7,5 @@
 - 📫 How to reach me zulfafalah@gmail.com
 - :mag: Find me on Tiktok  <a href="https://www.tiktok.com/@zulfafalah">tiktok.com/@zulfafalah</a>
 - :loudspeaker: Find me on Instagram  <a href="https://instagram.com/zulfafalah_">instagram.com/zulfafalah_</a>
-- :linkedin: Find me on LinkedIn  <a href="https://linkedin.com/in/zulfafalah">linkedin.com/in/zulfafalah</a>
+- :loudspeaker: Find me on LinkedIn  <a href="https://www.linkedin.com/in/zulfafajrulfalah/">linkedin.com/in/zulfafajrulfalah</a>
   
