@@ -1,7 +1,9 @@
 
 [![An image of @zulfafalah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zulfafalah)](https://holopin.io/@zulfafalah)
 
-> _"sky is the limit, everything is possible"_
+> _"sky is the limit, everything is possible_  
+> _- lukas"_
+
 
 - 👋 Hi, I'm Zulfa Falah
 - 👀 I’m interested in backend developer
