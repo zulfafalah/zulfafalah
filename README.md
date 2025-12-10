@@ -1,8 +1,7 @@
 
 [![An image of @zulfafalah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zulfafalah)](https://holopin.io/@zulfafalah)
 
-> _"sky is the limit, everything is possible"_  
-> _- Lukas (author of Unfold)_
+> _"Premature optimization is the root of all evil - Donald Knuth"_  
 
 
 - 👋 Hi, I'm Zulfa Falah
