@@ -20,7 +20,7 @@ I also develop mobile applications using Jetpack Compose, bringing modern, fast,
 * **[Manhwa-downloader](https://github.com/zulfafalah/manhwa-downloader)** : A web-based application to download manhwa chapters with reliable timeout handling and recovery logic.
 * **[Code-factory](https://github.com/zulfafalah/manhwa-downloader)** : : A personal playground for building, testing, and experimenting with backend ideas and system design.
 
-## Personal Space 👾
+## Personal Space 🍄
 * 📸 Instagram: [zulfafalah_](https://www.instagram.com/zulfafalah_/)
 * 🎬 TikTok: [zulfafalah](https://www.tiktok.com/@zulfafalah)
 * 📺 Youtube: [zulfafalah](https://www.youtube.com/@zulfafalah)
