@@ -15,10 +15,10 @@ I also develop mobile applications using Jetpack Compose, bringing modern, fast,
 * ⚙️ **Tools**: Shell, Git, GitHub, Spreadsheets, Docker
 
 ## Hobby Projects ✨
-* **[ Scraping-Google-Maps-Review](https://github.com/zulfafalah/Scraping-Google-Maps-Review)** : A scraping tool to collect Google Maps reviews and business data for analysis and automation.
-* **[Alquran-app](https://github.com/zulfafalah/alquran-app)** : An Al-Qur’an search application that finds relevant verses based on a given keyword, such as “sabar”, and displays related ayat contextually.
-* **[Manhwa-downloader](https://github.com/zulfafalah/manhwa-downloader)** : A web-based application to download manhwa chapters with reliable timeout handling and recovery logic.
-* **[Code-factory](https://github.com/zulfafalah/manhwa-downloader)** : : A personal playground for building, testing, and experimenting with backend ideas and system design.
+* **[ Scraping-Google-Maps-Review](https://github.com/zulfafalah/Scraping-Google-Maps-Review)**: A scraping tool to collect Google Maps reviews and business data for analysis and automation.
+* **[Alquran-app](https://github.com/zulfafalah/alquran-app)**: An Al-Qur’an search application that finds relevant verses based on a given keyword, such as “sabar”, and displays related ayat contextually.
+* **[Manhwa-downloader](https://github.com/zulfafalah/manhwa-downloader)**: A web-based application to download manhwa chapters with reliable timeout handling and recovery logic.
+* **[Code-factory](https://github.com/zulfafalah/manhwa-downloader)**: A personal playground for building, testing, and experimenting with backend ideas and system design.
 
 ## Personal Space 🍄
 * 📸 Instagram: [zulfafalah_](https://www.instagram.com/zulfafalah_/)
