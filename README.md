@@ -22,6 +22,8 @@ I also develop mobile applications using Jetpack Compose, bringing modern, fast,
 * **[Alquran-app](https://github.com/zulfafalah/alquran-app)**: An Al-Qur’an search application that finds relevant verses based on a given keyword, such as “sabar”, and displays related ayat contextually.
 * **[Manhwa-downloader](https://github.com/zulfafalah/manhwa-downloader)**: A web-based application to download manhwa chapters with reliable timeout handling and recovery logic.
 * **[byeBoros](https://github.com/zulfafalah/byeBoros)**: A simple and intuitive personal finance tracker to manage income, expenses, and monthly budgets with interactive charts and bilingual support.
+* **[faker-gui](https://github.com/zulfafalah/faker-gui)**: A cross-platform GUI application for generating fake SQL data from DDL statements.
+
 
 ## Personal Space 🍄
 * 📸 Instagram: [zulfafalah_](https://www.instagram.com/zulfafalah_/)
