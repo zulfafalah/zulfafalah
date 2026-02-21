@@ -21,6 +21,7 @@ I also develop mobile applications using Jetpack Compose, bringing modern, fast,
 * **[ Scraping-Google-Maps-Review](https://github.com/zulfafalah/Scraping-Google-Maps-Review)**: A scraping tool to collect Google Maps reviews and business data for analysis and automation.
 * **[Alquran-app](https://github.com/zulfafalah/alquran-app)**: An Al-Qur’an search application that finds relevant verses based on a given keyword, such as “sabar”, and displays related ayat contextually.
 * **[Manhwa-downloader](https://github.com/zulfafalah/manhwa-downloader)**: A web-based application to download manhwa chapters with reliable timeout handling and recovery logic.
+* **[byeBoros](https://github.com/zulfafalah/byeBoros)**: A simple and intuitive personal finance tracker to manage income, expenses, and monthly budgets with interactive charts and bilingual support.
 
 ## Personal Space 🍄
 * 📸 Instagram: [zulfafalah_](https://www.instagram.com/zulfafalah_/)
