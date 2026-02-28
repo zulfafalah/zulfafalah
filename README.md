@@ -16,7 +16,7 @@ I also develop mobile applications using Jetpack Compose, bringing modern, fast,
 
 ## Hobby Projects ✨
 * **[Ceritain](https://github.com/zulfafalah/ceritain)**: Transform long-form text and URLs into fun, snackable podcasts.
-* * **[byeBoros](https://github.com/zulfafalah/byeBoros)**: byeBoros: A simple and intuitive personal finance tracker to manage your income, expenses, and monthly budgets complete with interactive charts and bilingual support.
+* **[byeBoros](https://github.com/zulfafalah/byeBoros)**: ByeBoros: A simple and intuitive personal finance tracker to manage your income, expenses, and monthly budgets complete with interactive charts and bilingual support.
 No database needed all data is stored securely in your own Google Sheet.
 * **[Code-factory](https://github.com/zulfafalah/manhwa-downloader)**: A personal playground for building, testing, and experimenting with backend ideas and system design.
 * **[freedium-extension](https://github.com/zulfafalah/freedium-extension)**: A simple browser extension that opens Medium articles via Freedium.
