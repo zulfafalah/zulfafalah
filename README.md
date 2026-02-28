@@ -16,12 +16,13 @@ I also develop mobile applications using Jetpack Compose, bringing modern, fast,
 
 ## Hobby Projects ✨
 * **[Ceritain](https://github.com/zulfafalah/ceritain)**: Transform long-form text and URLs into fun, snackable podcasts.
+* * **[byeBoros](https://github.com/zulfafalah/byeBoros)**: byeBoros: A simple and intuitive personal finance tracker to manage your income, expenses, and monthly budgets complete with interactive charts and bilingual support.
+No database needed all data is stored securely in your own Google Sheet.
 * **[Code-factory](https://github.com/zulfafalah/manhwa-downloader)**: A personal playground for building, testing, and experimenting with backend ideas and system design.
 * **[freedium-extension](https://github.com/zulfafalah/freedium-extension)**: A simple browser extension that opens Medium articles via Freedium.
 * **[ Scraping-Google-Maps-Review](https://github.com/zulfafalah/Scraping-Google-Maps-Review)**: A scraping tool to collect Google Maps reviews and business data for analysis and automation.
 * **[Alquran-app](https://github.com/zulfafalah/alquran-app)**: An Al-Qur’an search application that finds relevant verses based on a given keyword, such as “sabar”, and displays related ayat contextually.
 * **[Manhwa-downloader](https://github.com/zulfafalah/manhwa-downloader)**: A web-based application to download manhwa chapters with reliable timeout handling and recovery logic.
-* **[byeBoros](https://github.com/zulfafalah/byeBoros)**: A simple and intuitive personal finance tracker to manage income, expenses, and monthly budgets with interactive charts and bilingual support.
 * **[faker-gui](https://github.com/zulfafalah/faker-gui)**: A cross-platform GUI application for generating fake SQL data from DDL statements.
 
 
