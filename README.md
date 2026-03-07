@@ -5,7 +5,7 @@
 
 ![views](https://views.whatilearened.today/views/github/zulfafalah/views.svg)
 
-Welcome to my GitHub page! I’m a Backend Developer who lives and breathes data. For the past 5+ years, I’ve been turning raw information into clean, structured systems through scraping, automation, and API development. Python + Django is my playground, and I still keep my PHP skills sharp for building solid web experiences. I enjoy building tools that make people’s lives easier quietly, in the background exactly how good backend systems should work.
+Welcome to my GitHub page! I’m a Software Engineer who lives and breathes data. For the past 5+ years, I’ve been turning raw information into clean, structured systems through scraping, automation, and API development. Python + Django is my playground, and I still keep my PHP skills sharp for building solid web experiences. I enjoy building tools that make people’s lives easier quietly, in the background exactly how good backend systems should work.
 I also develop mobile applications using Jetpack Compose, bringing modern, fast, and clean UI experiences to the Android ecosystem.
 
 ## About Me 🚀
