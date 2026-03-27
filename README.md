@@ -24,6 +24,7 @@ No database needed all data is stored securely in your own Google Sheet.
 * **[Alquran-app](https://github.com/zulfafalah/alquran-app)**: An Al-Qur’an search application that finds relevant verses based on a given keyword, such as “sabar”, and displays related ayat contextually.
 * **[Manhwa-downloader](https://github.com/zulfafalah/manhwa-downloader)**: A web-based application to download manhwa chapters with reliable timeout handling and recovery logic.
 * **[faker-gui](https://github.com/zulfafalah/faker-gui)**: A cross-platform GUI application for generating fake SQL data from DDL statements.
+* **[thr-calculator](https://github.com/zulfafalah/thr-calculator)**: A web application for calculating and distributing Eid al-Fitr holiday allowances (THR) among recipients with weighted or equal distribution modes.
 
 
 ## Personal Space 🍄
