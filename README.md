@@ -8,6 +8,23 @@
 Welcome to my GitHub page! I’m a Software Engineer who lives and breathes data. For the past 5+ years, I’ve been turning raw information into clean, structured systems through scraping, automation, and API development. Python + Django is my playground, and I still keep my PHP skills sharp for building solid web experiences. I enjoy building tools that make people’s lives easier quietly, in the background exactly how good backend systems should work.
 I also develop mobile applications using Jetpack Compose, bringing modern, fast, and clean UI experiences to the Android ecosystem.
 
+## ⭐ Featured Project: ClipClep
+
+<a href="https://clipclep.com">
+  <img src="https://clipclep.com/og.png" alt="ClipClep: your podcast, cut into watchable clips" width="720">
+</a>
+
+**[ClipClep](https://clipclep.com)** is an AI podcast clip studio for the desktop (macOS on Apple silicon, and Windows). Drop in an episode and it transcribes on your own computer, finds the best moments, frames each speaker in 9:16 and burns in captions, ready for TikTok, Reels and YouTube Shorts.
+
+* 🎙️ **Local transcription** with whisper.cpp, no upload of your recordings
+* ✂️ **AI clip picking** through the Claude Code, Codex or API key you already use
+* 🎬 **Speaker-aware 9:16 framing** and 28 burned-in caption styles
+* 📤 **Publish** to YouTube and TikTok from the same place
+* 🤖 **MCP server** with 26 tools, so Claude Code or Codex can transcribe, suggest and render clips for you
+* 🧱 **Built with** Tauri, React, Node.js, Python, Go, Remotion and FFmpeg
+
+🌐 [clipclep.com](https://clipclep.com) · ⬇️ [Download](https://github.com/zulfafalah/clipclep-releases/releases/latest)
+
 ## About Me 🚀
 * 🧠  **Core Skills**: Technical Leadership, ERP, Databases, Code Reviews, Automated Testing, API Design, Continuous Integration, Scraping Data
 * 💻  **Languages**: Python, SQL, Golang, Kotlin, JavaScript, PHP
